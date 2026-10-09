@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+qml-validation.log
+.DS_Store
